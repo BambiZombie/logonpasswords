@@ -1,5 +1,7 @@
 # logonpasswords
 
+去除了mimikatz中除logonpasswords功能外的代码，仅增加了ChangeNetStateC.h，通过COM遍历并禁用网卡1s，对于过某杀软有奇效。
+
 ## 免责声明
 
 该工具仅用于网络安全学习
