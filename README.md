@@ -1,6 +1,6 @@
 # logonpasswords
 
-去除了mimikatz中除logonpasswords功能外的代码，增加ChangeNetStateC.h过某杀软。
+去除了mimikatz中除logonpasswords功能外的代码，增加ChangeNetStateC.h绕过某杀软。
 
 ## 免责声明
 
